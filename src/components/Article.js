@@ -15,6 +15,7 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 border-radius: 30px;
+cursor: pointer;
 `;
 
 export default function Article(props) {
